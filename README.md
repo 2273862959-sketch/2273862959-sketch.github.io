@@ -1,5 +1,11 @@
 # MA JIYU · Portfolio
 
+## Visual edition 02
+
+A portrait-led editorial layout with a warm paper palette, cobalt accents, featured project spreads, a filterable collection and bilingual case studies. The supplied portrait is used unchanged (CSS controls its framing). No education details, graduation year or contact email are published.
+
+Responsive checks cover 320 px, 390 px, 768 px and desktop widths. Project filters work without network calls; language preference is stored only in the visitor's browser. Reduced-motion preferences are respected.
+
 A bilingual personal portfolio of machine learning, web engineering, games, creative coding and scientific computing.
 
 **Website:** https://2273862959-sketch.github.io/
